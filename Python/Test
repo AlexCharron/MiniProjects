@@ -1,1 +1,4 @@
-print("Alex Charron")
+import os
+os.system('cls' if os.name == 'nt' else 'clear')
+print("Alex")
+print(8 - 4)
